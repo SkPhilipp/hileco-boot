@@ -6,6 +6,8 @@ Java utilities for working with Spring, specifically Spring Boot
 - Requires Java 1.8
 - Builds with maven
 
+[![Build Status](https://travis-ci.org/SkPhilipp/hileco-boot.svg)](https://travis-ci.org/SkPhilipp/hileco-boot)
+
 hileco-boot-enabler
 ===================
 
