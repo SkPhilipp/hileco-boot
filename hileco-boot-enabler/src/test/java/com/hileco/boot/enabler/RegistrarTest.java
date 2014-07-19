@@ -20,7 +20,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 @ActiveProfiles("test")
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(classes = SampleApplicationConfiguration.class, loader = SpringApplicationContextLoader.class)
-public class RegistrarTests {
+public class RegistrarTest {
 
     @Autowired
     private HelloService helloService;

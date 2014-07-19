@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
  * {@link com.hileco.boot.enabler.sample.lib.MockRegistrar}.
  */
 @Configuration
-@EnableMocking("com.hileco.boot.enabler.mocksample.services")
+@EnableMocking("com.hileco.boot.enabler.sample.services")
 public class SampleApplicationConfiguration {
 
 }
